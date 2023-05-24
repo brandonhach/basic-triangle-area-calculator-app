@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Triangle Area Calculator\n</string>
+    <string name="baseVal">Enter Base</string>
+    <string name="heightVal">Enter Height</string>
+    <string name="defaultSolution">= N/A</string>
+    <string name="ButtonCalc">CALCULATE</string>
+    <string name="buttonReset">RESET</string>
+</resources>
